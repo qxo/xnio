@@ -31,7 +31,7 @@
     <parent>
         <groupId>org.jboss.xnio</groupId>
         <artifactId>xnio-all</artifactId>
-        <version>3.8.9.Final</version>
+        <version>3.8.9.Final-fix-20230425</version>
     </parent>
     
     <properties>
